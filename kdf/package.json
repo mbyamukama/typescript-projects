@@ -1,0 +1,17 @@
+{
+    "name": "diffhell",
+    "version": "0.1.0",
+    "private": true,
+    "type": "module",
+    "engines": {
+      "node": "14.15.0"
+    },
+    "devDependencies": {
+      "@types/crypto-js": "^4.1.1",
+      "@types/node": "^18.0.6"
+    },
+    "dependencies": {
+      "crypto-js": "4.1.1"
+    }
+  }
+  
